@@ -1,2 +1,2 @@
-# Upstream
+# calculator-app
 initialize
